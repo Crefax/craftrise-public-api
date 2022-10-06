@@ -1,0 +1,28 @@
+{
+  "name": "craftrise-public-api",
+  "version": "1.0.0",
+  "description": "CraftRise için basit bir api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crefax/craftrise-public-api.git"
+  },
+  "keywords": [
+    "CraftRise",
+    "CraftRise-api",
+    "craftrise-public-api"
+  ],
+  "author": "Crefax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Crefax/craftrise-public-api/issues"
+  },
+  "homepage": "https://github.com/Crefax/craftrise-public-api#readme",
+  "dependencies": {
+    "axios": "^1.1.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
