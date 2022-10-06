@@ -22,7 +22,7 @@ verisorgula()
 ```
 
 ## Verilere erişmek için
-```json
+```
 {
   username: 'Crefax',
   status: 'OFFLINE',
